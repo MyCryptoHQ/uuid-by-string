@@ -38,8 +38,8 @@
     ]
   },
   "dependencies": {
-    "js-md5": "^0.7.3",
-    "js-sha1": "^0.6.0"
+    "js-md5": "MyCryptoHQ/js-md5#b300da8",
+    "js-sha1": "MyCryptoHQ/js-sha1#7474a64"
   },
   "devDependencies": {
     "jest": "^24.8.0"
