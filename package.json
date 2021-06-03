@@ -37,10 +37,6 @@
       "src/**"
     ]
   },
-  "dependencies": {
-    "js-md5": "MyCryptoHQ/js-md5#b300da833e5e2c83dae186359b72c69e1711acd2",
-    "js-sha1": "MyCryptoHQ/js-sha1#7474a6478649ff9a784e565a71c2c97ab18ef634"
-  },
   "devDependencies": {
     "jest": "^24.8.0"
   }
