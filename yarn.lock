@@ -1962,14 +1962,6 @@ jest@^24.8.0:
     import-local "^2.0.0"
     jest-cli "^24.8.0"
 
-js-md5@MyCryptoHQ/js-md5#b300da8:
-  version "0.7.3"
-  resolved "https://codeload.github.com/MyCryptoHQ/js-md5/tar.gz/b300da833e5e2c83dae186359b72c69e1711acd2"
-
-js-sha1@MyCryptoHQ/js-sha1#7474a64:
-  version "0.6.0"
-  resolved "https://codeload.github.com/MyCryptoHQ/js-sha1/tar.gz/7474a6478649ff9a784e565a71c2c97ab18ef634"
-
 "js-tokens@^3.0.0 || ^4.0.0", js-tokens@^4.0.0:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/js-tokens/-/js-tokens-4.0.0.tgz#19203fb59991df98e3a287050d4647cdeaf32499"

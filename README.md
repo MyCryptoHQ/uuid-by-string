@@ -1,5 +1,5 @@
 MyCrypto: This is a fork of **uuid-by-string**.
-Due to security concerns, **js-md5** and **js-sha1** are forks.
+Due to security concerns, it removes the dependency on `js-sha1` and `js-md5`.
 
 uuid-by-string
 [![NPM](https://img.shields.io/npm/v/uuid-by-string.svg?style=flat-square&maxAge=3600)](https://www.npmjs.com/package/uuid-by-string)
